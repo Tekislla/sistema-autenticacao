@@ -1,6 +1,6 @@
 public class Autenticacao {
 
-    static final String senhaCorreta = "S3nH49";
+    static final String senhaCorreta = "boa tentativa, mas a senha não está aqui, apenas no arquivo compilado :)";
 
     public static void main(String[] args) {
         if (args.length != 2) {
