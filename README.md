@@ -1,5 +1,7 @@
 # Sistema de autenticação
 
+<h3>Sistema de autenticação simples para um trabalho acadêmico.</h3>
+
 <h3>❓ Como utilizar </h3>
 
 1) Instale e configure o Java 8 (JDK 1.8)
